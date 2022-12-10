@@ -1,0 +1,1 @@
+# Amazon-Managed-ELK-stack-configuration
