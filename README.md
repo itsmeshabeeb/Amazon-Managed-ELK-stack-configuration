@@ -63,4 +63,4 @@ now we can go to cloudwatchlogs to stream logs to this cluster:
          ('0' + timestamp.getUTCDate()).slice(-2), // day
      ].join('.');
 
-deply the function and test.
+deply the function and test by streaming multipule logs
